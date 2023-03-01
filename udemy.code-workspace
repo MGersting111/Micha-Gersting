@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Andi Excl Projekt"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projekte"
+	}
+}
